@@ -38,3 +38,22 @@ Compound 复合语句（语句块）
 ~~Circulate for循环语句~~  
 Repetition for each语句
 
+### 第05章 字符串  
+~~Join 字符串连接 +~~  
+~~Link 连接其它数据类型 +~~  
+Text 字符串 查找第一次出现 最后一次出现的位置 长度   
+Ref 指定索引位置的字符  
+Subs 获取子字符串  
+Blak 去除首尾空格  
+NewStr 字符串替换  
+StartOrEnd 判断字符串的开始和结尾
+Opinion 判断字符串是否相等  
+~~Wordbook比较字符串字典序先后 <0 ==0 >0~~  
+~~UpAndLower字母大小写转换~~  
+Eval 日期格式化
+~~GetDate 时间格式化~~
+~~DAteAndTime 日期时间组合~~
+General 特定类型格式化
+Judge 正则表达式
+Jerque 字符串生成器
+
