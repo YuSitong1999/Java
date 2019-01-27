@@ -57,3 +57,19 @@ General 特定类型格式化
 Judge 正则表达式
 Jerque 字符串生成器
 
+### 第06章 数组
+GetDay 一位数组  
+Matrix 使用二维数组  
+~~Trap for 遍历二维数组~~  
+Tautog for each遍历二维数组  
+~~Sway 填充数组~~  
+Displace 部分填充  
+Taxis 对数组排序  
+Cope 复制数组
+Repeat 范围复制
+~~Example binarySearch 二分查找~~  
+Rakel 范围内二分查找  
+BubbleSort 冒泡排序  
+~~SelectSort 选择排序~~  
+~~ReverseSort 反转排序？？~~  
+
