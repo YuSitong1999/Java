@@ -2,9 +2,9 @@
 Java学习
 
 ## 2019-01-26
-### 第一章 
+### 第01章 
 HelloJava
-### 第三章
+### 第03章
 First 打印字符串  
 Number 打印数字 加法  
 Gess char与int转换  
@@ -26,3 +26,15 @@ long -9223372036854775808~9223372036854775807
  int< long< float< double  
   
 Conver  
+
+### 第04章
+Compound 复合语句（语句块）  
+~~Getif条件语句~~  
+~~Getifelse条件语句~~  
+~~GetTerm条件语句~~  
+~~GetSwitch多分支语句~~  
+~~GetSum do-while 循环语句~~  
+~~GetCycle do-while & while 循环语句~~  
+~~Circulate for循环语句~~  
+Repetition for each语句
+
