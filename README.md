@@ -36,7 +36,7 @@ Compound 复合语句（语句块）
 ~~GetSum do-while 循环语句~~  
 ~~GetCycle do-while & while 循环语句~~  
 ~~Circulate for循环语句~~  
-Repetition for each语句
+Repetition for each语句  
 
 ### 第05章 字符串  
 ~~Join 字符串连接 +~~  
@@ -50,12 +50,12 @@ StartOrEnd 判断字符串的开始和结尾
 Opinion 判断字符串是否相等  
 ~~Wordbook比较字符串字典序先后 <0 ==0 >0~~  
 ~~UpAndLower字母大小写转换~~  
-Eval 日期格式化
-~~GetDate 时间格式化~~
-~~DAteAndTime 日期时间组合~~
-General 特定类型格式化
-Judge 正则表达式
-Jerque 字符串生成器
+Eval 日期格式化  
+~~GetDate 时间格式化~~  
+~~DAteAndTime 日期时间组合~~  
+General 特定类型格式化  
+Judge 正则表达式  
+Jerque 字符串生成器  
 
 ### 第06章 数组
 GetDay 一位数组  
@@ -65,11 +65,24 @@ Tautog for each遍历二维数组
 ~~Sway 填充数组~~  
 Displace 部分填充  
 Taxis 对数组排序  
-Cope 复制数组
-Repeat 范围复制
+Cope 复制数组  
+Repeat 范围复制  
 ~~Example binarySearch 二分查找~~  
 Rakel 范围内二分查找  
 BubbleSort 冒泡排序  
 ~~SelectSort 选择排序~~  
 ~~ReverseSort 反转排序？？~~  
+
+### 第07章 成员变量  
+Book 成员变量  
+~~AnyClass 默认访问权限？~~  
+AntThing this调用构造方法  
+~~StaticTest 静态变量 静态方法~~  
+TestMain 输出调用的参数  
+~~CreateObject 创建对象~~  
+TransferProperty 对象调用类成员变量  
+AccessProperty 对象调用静态成员变量  
+Compare 对象的比较  
+Object类protected方法finalize()垃圾回收先调用，真正时才回收  
+System.gc() 强制回收  
 
